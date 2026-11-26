@@ -72,6 +72,10 @@ GenPPT provides an AI‑powered presentation maker that transforms outlines, not
 
 Everything profiled for GenPPT is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/genppt/](https://apis.io/providers/genppt/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [GenPPT MCP](https://apis.io/apis/genppt/genppt-mcp/) — Streamable HTTP MCP server for GenPPT that generates AI presentation decks from prompts, notes, URLs, or renders slides, and exports to PowerPoint, PDF, or…
+
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
@@ -80,38 +84,41 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Genppt Domain Security](https://apis.io/security/genppt/genppt-domain-security/)
+- [GenPPT Domain Security](https://apis.io/security/genppt/genppt-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Genppt Plans Pricing](https://apis.io/plans/genppt/genppt-plans-pricing/)
+- [GenPPT Plans Pricing](https://apis.io/plans/genppt/genppt-plans-pricing/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://genppt.com)
+- [Documentation](https://genppt.com/docs/mcp)
 - [Getting started](https://genppt.com/examples/sales-deck/saas-first-call)
+- [API reference](https://genppt.com/docs/mcp)
 - [Pricing](https://genppt.com/pricing)
 - [Support](https://genppt.com/help)
 - [Blog](https://genppt.com/blog)
+- [Security](https://genppt.com/security)
 - [Terms of service](https://genppt.com/blog/terms-of-service)
 - [Privacy policy](https://genppt.com/blog/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 18.4** — emerging · rubric 0.27.0 · scored 2026-11-08
+**Kin Score 22.7** — emerging · rubric 0.28.0 · scored 2026-11-25
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.3 |
+| Discoverability | 65.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 19.0 |
-| Access clarity | 50.5 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 40.9 |
 
 **Agent readiness 3.1** — human-only
 
